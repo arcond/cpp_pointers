@@ -1,4 +1,4 @@
-PointerPlay in C++
+Playing with pointers in C++
 ==================
 When I first learned C++ I had the hardest time with pointers. As I start re-learning the language I wanted to get a handle on what things would do in certain situations. It helped me visualize how pointers and parameters interact.
 
